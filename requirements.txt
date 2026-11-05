@@ -1,6 +1,9 @@
+
 Flask
 pycryptodome
 requests
 protobuf
 PyJWT
 rich
+pyfiglet
+protobuf-decoder
